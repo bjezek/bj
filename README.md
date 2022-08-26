@@ -42,4 +42,5 @@ loans for your company and save you cost of defaulting loans.
 # Recall & Precesion Original Vs Oversampled
 The Precesion on the original module was better at 100% on healthy loans  compared to 99% on the oversampled, but I wanted
 to test the unhealthy loans and make sure that was more closer accurate. Oversampled showed 99% compared to 85% from the original 
-module. 
+module. And the Recall was 99% compared to 90% meaning how many True positives where called on unhealthy loans for the Oversampled
+module again showing to be the better module for this problem.
