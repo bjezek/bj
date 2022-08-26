@@ -23,6 +23,8 @@ seperated the data into two seperate training frames to train the module on for 
 to get use to the data and uderstand what the data was, from their I fit the module
 to the algorithim and then used the predict function to get the accuracy score of the module
 which was at 94%
+![image](https://user-images.githubusercontent.com/106267420/186948655-06c82ba8-a6be-44fe-9c33-72bb96bafe7a.png)
+
 
 # Oversampling !
 Testing the module to see how reliable that 94% was as a majority of the data it tested on was
