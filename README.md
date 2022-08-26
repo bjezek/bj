@@ -37,3 +37,9 @@ was an accuracy score of 99%.
 # MachineslearningisAwesome!
 I have confidence this machine module well now help predict healthy and unheathly 
 loans for your company and save you cost of defaulting loans. 
+
+
+# Recall & Precesion original Vs Oversampled
+The Precesion on the original module was better at 100% on healthy loans  compared to 99% on the oversampled, but I wanted
+to test the unhealthy loans and make sure that was more closer accurate. Oversampled showed 99% compared to 84% from the original 
+module. 
